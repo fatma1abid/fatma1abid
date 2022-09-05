@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("MessengerFileRoot.entrypoint",["JSResourceForInteraction","useMWFilePDFDataQuery$Parameters"],function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(a){a=babelHelpers["extends"]({},a.routeParams);return{queries:{queryReference:{parameters:b("useMWFilePDFDataQuery$Parameters"),variables:a}}}},root:c("JSResourceForInteraction")("MessengerFileRoot.react").__setRef("MessengerFileRoot.entrypoint")};g["default"]=a},98);
